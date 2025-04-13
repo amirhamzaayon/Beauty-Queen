@@ -336,10 +336,12 @@ hr{
     flex-basis: 25%;
     padding: 10px;
     margin-bottom: 30px;
-    border-radius: 5px;
-    box-shadow: 0 10px 20px 3px #ffffff14;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px 3px #91918214;
     cursor: pointer;  
     transition: .5s;
+    padding: 24px;
+
 }
 .testimonial-col p{
     font-size: 14px;
